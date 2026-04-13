@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\second term third year\\graphics\\Animation - TA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|D:\\second term third year\\graphics\\Animation - TA\\graphics\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|d:\\second term third year\\graphics\\animation - ta\\graphics\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|D:\\second term third year\\graphics\\Animation - TA\\graphics\\shaders\\simplefragmentshader.fragmentshader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\shaders\\simplefragmentshader.fragmentshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|D:\\second term third year\\graphics\\Animation - TA\\graphics\\shaders\\simplevertexshader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\shaders\\simplevertexshader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|D:\\second term third year\\graphics\\Animation - TA\\graphics\\graphicsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\graphicsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Texture.cs",
+              "RelativeDocumentMoniker": "Graphics\\Texture.cs",
+              "ToolTip": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Texture.cs",
+              "RelativeToolTip": "Graphics\\Texture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:46:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphicsForm.cs",
+              "DocumentMoniker": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\GraphicsForm.cs",
+              "RelativeDocumentMoniker": "Graphics\\GraphicsForm.cs",
+              "ToolTip": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\GraphicsForm.cs",
+              "RelativeToolTip": "Graphics\\GraphicsForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:00:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleFragmentShader.fragmentshader",
+              "DocumentMoniker": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "RelativeDocumentMoniker": "Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "ToolTip": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "RelativeToolTip": "Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T04:57:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleVertexShader.vertexshader",
+              "DocumentMoniker": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "RelativeDocumentMoniker": "Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "ToolTip": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "RelativeToolTip": "Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T04:57:18.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Renderer.cs",
+              "RelativeDocumentMoniker": "Graphics\\Renderer.cs",
+              "ToolTip": "D:\\second term third year\\graphics\\Animation - TA\\Graphics\\Renderer.cs",
+              "RelativeToolTip": "Graphics\\Renderer.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAmwPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:56:58.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

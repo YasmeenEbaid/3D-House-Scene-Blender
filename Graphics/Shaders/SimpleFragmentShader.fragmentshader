@@ -1,0 +1,21 @@
+#version 330 core
+
+in vec3 pixelcolor;
+in vec2 TexCoord;
+
+out vec3 color;
+
+uniform sampler2D myTextureSampler;
+uniform int useTexture; 
+
+void main()
+{
+    if(useTexture == 1)
+    {
+        color = texture(myTextureSampler, TexCoord).rgb;
+    }
+    else
+    {
+        color = pixelcolor; 
+    }
+}
